@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "link-cards-v-2",
+    "libraryId": "b959f7b9-4f2b-43cb-b6cb-4e531b4be494",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "linkCards-V2",
+    "solutionShortDescription": "linkCards-V2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

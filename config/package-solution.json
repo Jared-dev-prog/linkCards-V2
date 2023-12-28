@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "link-cards-v-2-client-side-solution",
+    "id": "b959f7b9-4f2b-43cb-b6cb-4e531b4be494",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "linkCards-V2 description"
+      },
+      "longDescription": {
+        "default": "linkCards-V2 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "link-cards-v-2 Feature",
+        "description": "The feature that activates elements of the link-cards-v-2 solution.",
+        "id": "29041134-102c-4791-bc11-771c2226fb37",
+        "version": "2.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/linkCards-V2.sppkg"
+  }
+}
